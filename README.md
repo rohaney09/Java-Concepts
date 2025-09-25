@@ -46,5 +46,5 @@ This folder has **beginner-friendly Java programs** that cover:
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-concepts.git
+   git clone https://github.com/rohan09/java-concepts.git
    cd java-concepts
