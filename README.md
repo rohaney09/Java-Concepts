@@ -15,9 +15,7 @@ This repository contains my learning and practice code in **Java**, organized in
   - [🔹 DSA](#-dsa)
   - [🔹 Basic Java Programs](#-basic-java-programs)
 - [🛠️ How to Run](#️-how-to-run)
-- [🎯 Goals](#-goals)
-- [🤝 Contribution](#-contribution)
-- [📌 Author](#-author)
+
 
 ---
 
