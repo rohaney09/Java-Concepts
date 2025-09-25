@@ -26,8 +26,25 @@ This folder has **beginner-friendly Java programs** that cover:
 
 ---
 
+## 📑 Table of Contents
+- [📂 Repository Structure](#-repository-structure)
+- [📘 Directories Overview](#-directories-overview)
+  - [🔹 DSA](#-dsa)
+  - [🔹 Basic Java Programs](#-basic-java-programs)
+- [🛠️ How to Run](#️-how-to-run)
+- [🎯 Goals](#-goals)
+- [🤝 Contribution](#-contribution)
+- [📌 Author](#-author)
+
+---
+
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/java-concepts.git
    cd java-concepts
+
+
+---
+
+Do you want me to also add a **table of contents with clickable links** (like "DSA → Arrays → Problems") so navigation becomes easier in GitHub?
