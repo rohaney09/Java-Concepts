@@ -32,7 +32,7 @@ class Insertion {
             }
             else
             {
-                b[i]=a[i-1];
+                b[i] = a[i-1];
             }
         }
         System.out.println("after inserting");
@@ -41,4 +41,5 @@ class Insertion {
             System.out.println(b[i]);
         }
     }
+
 }
